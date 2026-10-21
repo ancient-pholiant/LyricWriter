@@ -1,0 +1,15 @@
+Short description: A free Windows text editor for focused writing, with
+document formatting, light/dark themes, and English/Russian interface
+options.
+
+Suggested website: Leave blank until you have an official project
+website.
+
+Suggested topics: text-editor, writing, poetry, lyrics, windows,
+desktop-application, focus-writing
+
+Suggested repository name: LyricWriter
+
+Suggested public repository note: Publish only files you intend to make
+public. Do not upload private source code, signing keys, passwords,
+personal documents, or build secrets.

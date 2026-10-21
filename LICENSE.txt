@@ -1,0 +1,72 @@
+LyricWriter — Custom Free-Use License Copyright (c) 2026 Dmytro Tytskyi
+(Demetrios). All rights reserved.
+
+IMPORTANT: This is a custom license draft, not legal advice. Review it
+for the countries where you intend to distribute the software before
+publication.
+
+1.  Definitions “Software” means the LyricWriter application and the
+    original installer or binary distribution provided by the copyright
+    holder. “Copyright holder” means Dmytro Tytskyi, also known
+    creatively as Demetrios.
+
+2.  Permission to use The copyright holder grants the recipient a
+    non-exclusive, worldwide, royalty-free permission to download,
+    install, and use the unmodified Software for personal or internal
+    business purposes.
+
+3.  Redistribution of the original build You may redistribute an exact,
+    unmodified copy of the original installer made available by the
+    copyright holder, provided that:
+
+(a) you do not charge a fee for the Software itself;
+(b) you include this license and retain all copyright and attribution
+    notices;
+(c) you clearly identify the original author and do not imply that you
+    created or officially endorse the copy;
+(d) you do not bundle the Software with malware or use it for unlawful
+    purposes; and
+(e) you do not misrepresent the origin, version, or integrity of the
+    Software.
+
+4.  Restrictions Except where applicable law expressly permits otherwise
+    or the copyright holder gives prior written permission, you may not:
+
+(a) claim authorship or ownership of the Software;
+(b) publish, distribute, or offer modified, patched, or repackaged
+    builds of the Software;
+(c) remove or alter copyright, author, or license notices;
+(d) sell, rent, sublicense, or otherwise commercially redistribute the
+    Software as a standalone product;
+(e) reverse engineer, decompile, or disassemble the Software, except to
+    the extent such restriction is prohibited by applicable law.
+
+5.  Ownership The Software is licensed, not sold. The copyright holder
+    retains all rights, title, and interest in the Software and its
+    original components. This license does not transfer ownership or
+    grant rights to the source code.
+
+6.  Third-party components The Software may include third-party
+    components governed by their own licenses. Those licenses continue
+    to apply to the relevant components and take precedence where
+    legally required. This license does not remove any third-party
+    obligations.
+
+7.  Termination Permission under this license terminates automatically
+    if you materially breach its terms. You must stop any use or
+    distribution that is no longer authorized, subject to rights that
+    cannot legally be withdrawn.
+
+8.  Disclaimer To the maximum extent permitted by applicable law, the
+    Software is provided “AS IS”, without warranties of any kind,
+    express or implied, including merchantability, fitness for a
+    particular purpose, and non-infringement. The copyright holder is
+    not liable for damages arising from use of the Software, except
+    where liability cannot be excluded under applicable law.
+
+9.  Applicable law Any applicable law and jurisdiction must be
+    determined in accordance with mandatory legal rules. Nothing in this
+    license limits rights that cannot lawfully be limited.
+
+For permission requests, contact the copyright holder through the
+contact method published on the official project page.
