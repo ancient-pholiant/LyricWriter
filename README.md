@@ -47,7 +47,9 @@ LyricWriter is intended for:
 
 ## Screenshots
 
-Application screenshots will be published in the [`screenshots`](screenshots/) directory.
+### Light theme
+
+![LyricWriter — Light Theme](screenshots/light-theme.png)
 
 ## License and attribution
 
