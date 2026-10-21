@@ -51,6 +51,10 @@ LyricWriter is intended for:
 
 ![LyricWriter — Light Theme](screenshots/light-theme.png)
 
+### Dark theme
+
+![LyricWriter — Dark Theme](screenshots/dark-theme.png)
+
 ## License and attribution
 
 Please read [LICENSE.txt](LICENSE.txt) before using or redistributing this project.
