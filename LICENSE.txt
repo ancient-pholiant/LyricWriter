@@ -1,10 +1,6 @@
 LyricWriter — Custom Free-Use License Copyright (c) 2026 Dmytro Tytskyi
 (Demetrios). All rights reserved.
 
-IMPORTANT: This is a custom license draft, not legal advice. Review it
-for the countries where you intend to distribute the software before
-publication.
-
 1.  Definitions “Software” means the LyricWriter application and the
     original installer or binary distribution provided by the copyright
     holder. “Copyright holder” means Dmytro Tytskyi, also known
