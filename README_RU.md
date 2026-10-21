@@ -1,3 +1,5 @@
+[**⬇ Скачать LyricWriter для Windows — v1.0.0**](https://github.com/ancient-pholiant/LyricWriter/releases/tag/v1.0.0)
+
 # LyricWriter
 
 **Минималистичный текстовый редактор для поэзии, песенных текстов и творческой работы.**
