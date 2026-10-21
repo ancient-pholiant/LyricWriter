@@ -55,6 +55,10 @@ LyricWriter is intended for:
 
 ![LyricWriter — Dark Theme](screenshots/dark-theme.png)
 
+### Focus Mode
+
+![LyricWriter — Focus Mode](screenshots/focus-mode.png)
+
 ## License and attribution
 
 Please read [LICENSE.txt](LICENSE.txt) before using or redistributing this project.
