@@ -1,3 +1,5 @@
+[**⬇ Download LyricWriter for Windows — v1.0.0**](https://github.com/ancient-pholiant/LyricWriter/releases/tag/v1.0.0)
+
 # LyricWriter
 
 **A minimalist writing environment for poetry, lyrics, and creative writing.**
