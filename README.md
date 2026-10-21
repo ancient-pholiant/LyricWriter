@@ -59,6 +59,10 @@ LyricWriter is intended for:
 
 ![LyricWriter — Focus Mode](screenshots/focus-mode.png)
 
+### Text formatting
+
+![LyricWriter — Text Formatting](screenshots/formatting.png)
+
 ## License and attribution
 
 Please read [LICENSE.txt](LICENSE.txt) before using or redistributing this project.
