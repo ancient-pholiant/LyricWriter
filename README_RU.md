@@ -47,7 +47,21 @@ LyricWriter — настольный текстовый редактор, соз
 
 ## Скриншоты
 
-Скриншоты программы будут опубликованы в каталоге [`screenshots`](screenshots/).
+### Светлая тема
+
+![LyricWriter — Светлая тема](screenshots/light-theme.png)
+
+### Тёмная тема
+
+![LyricWriter — Тёмная тема](screenshots/dark-theme.png)
+
+### Режим фокусировки
+
+![LyricWriter — Режим фокусировки](screenshots/focus-mode.png)
+
+### Форматирование текста
+
+![LyricWriter — Форматирование текста](screenshots/formatting.png)
 
 ## Лицензия и авторство
 
